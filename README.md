@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Reda21-eng
-- 👀 I’m interested in ...computer science
-- 🌱 I’m currently learning ..computer science.
-- 💞️ I’m looking to collaborate on..
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- # Hey §I'm Réda
+- ## I'm actually learning computer science and i want to be a fullstack programmer
 
 <!---
 
