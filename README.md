@@ -1,7 +1,7 @@
 ![Hey !I'm Réda ](https://github.com/Reda21-eng/Reda21-eng/blob/main/github-header-image.png?raw=true)
 
 
--Hey! I'm Réda,I'm learning computer science and I want to be fullstack programmer
+-Hey! I'm Réda,I'm learning computer science and I want to be a fullstack programmer
 <!---
 
 
