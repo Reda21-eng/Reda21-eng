@@ -1,5 +1,5 @@
-- # Hey §I'm Réda
-- ## I'm actually learning computer science and i want to be a fullstack programmer
+- # Hey! I'm Réda
+- ##  I'm actually learning computer science and i want to be a fullstack programmer
 
 <!---
 
